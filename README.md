@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 - Docker (if using Docker)
 ### Clone the Repository
 ```
-$ git clone https://github.com/yourusername/context-aware-news-search.git
+$ git clone https://github.com/yourusername/Context-Aware-Relevancy-Search.git
 $ cd context-aware-news-search
 ```
 ### Install Dependencies
